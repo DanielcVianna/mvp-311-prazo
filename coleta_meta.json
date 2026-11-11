@@ -1,0 +1,103 @@
+{
+  "coleta_inicio_utc": "2026-11-11 21:39:36",
+  "coleta_fim_utc": "2026-11-11 22:01:13",
+  "recorte_abertura": "2025-01-01 a 2025-12-31",
+  "n_meses": 12,
+  "linhas_por_pagina": 50000,
+  "n_arquivos": 80,
+  "mb": 727.2,
+  "linhas_baixadas": 3655042,
+  "total_anunciado_api": 3655042,
+  "meses_incompletos": [],
+  "auditoria_por_mes": [
+    {
+      "mes": "2025-01",
+      "total_api": 348180,
+      "baixadas": 348180,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-02",
+      "total_api": 255364,
+      "baixadas": 255364,
+      "arquivos": 6
+    },
+    {
+      "mes": "2025-03",
+      "total_api": 281221,
+      "baixadas": 281221,
+      "arquivos": 6
+    },
+    {
+      "mes": "2025-04",
+      "total_api": 272549,
+      "baixadas": 272549,
+      "arquivos": 6
+    },
+    {
+      "mes": "2025-05",
+      "total_api": 295060,
+      "baixadas": 295060,
+      "arquivos": 6
+    },
+    {
+      "mes": "2025-06",
+      "total_api": 306442,
+      "baixadas": 306442,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-07",
+      "total_api": 315883,
+      "baixadas": 315883,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-08",
+      "total_api": 304039,
+      "baixadas": 304039,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-09",
+      "total_api": 302684,
+      "baixadas": 302684,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-10",
+      "total_api": 336612,
+      "baixadas": 336612,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-11",
+      "total_api": 304905,
+      "baixadas": 304905,
+      "arquivos": 7
+    },
+    {
+      "mes": "2025-12",
+      "total_api": 332103,
+      "baixadas": 332103,
+      "arquivos": 7
+    }
+  ],
+  "colunas": [
+    "unique_key",
+    "created_date",
+    "closed_date",
+    "agency",
+    "complaint_type",
+    "borough",
+    "status",
+    "agency_name",
+    "descriptor",
+    "location_type",
+    "incident_zip",
+    "open_data_channel_type"
+  ],
+  "fonte": "NYC Open Data, dataset erm2-nwe9 (311 Service Requests from 2010 to Present)",
+  "formato": "CSV (API SODA 2.1, páginas de 50.000 linhas)",
+  "token_api": "não utilizado"
+}
